@@ -1,2 +1,3 @@
 # gut-microbiome-multi-cohort-ml
-This project implements a cross-cohort machine learning framework for disease prediction using gut microbiome and metabolomics data across 14 independent cohorts.
+A multi-class classification framework was developed using Random Forest and XGBoost models across 14 independent disease cohorts.
+
